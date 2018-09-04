@@ -12,7 +12,7 @@ public class Captalizaton {
 		sb.reverse();
 		
 		System.out.print(sb.toString());
-		
+		// i am anand from git
 		
 	}
 	}
